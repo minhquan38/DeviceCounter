@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-qnPN3nR7YZ+7n\/gEwPGcoqRQImUmjb6cnuoaIBldbHU=",
+      "hash": "sha256-fp8Z1Dcg5tT+4r5oL3PAaigX1tb1SwoFw2f7NXTDCYw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Q1dv4vAdgopWggripMydHXPppgxEDsuNQ3o4IAtp2Eg=",
+      "hash": "sha256-XxLS6ySw9rzc+Ud1PvLePlNThfPknViVhmCke6ExyVQ=",
       "url": "_framework\/DeviceCounter.wasm"
     },
     {
-      "hash": "sha256-afyz33zoCLLxq241evZ767nYL5c\/TrB5RNSkNBD2D+s=",
+      "hash": "sha256-6opDz+WwK3xF8I3dCbvLH537tJ6fkCIe4VU30SNJItI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/System.Collections.Concurrent.wasm"
     },
     {
-      "hash": "sha256-wNmwa9jhotmm+WIyswgu+XdijLhe5wMisbTrL5\/cNEg=",
+      "hash": "sha256-t13cu9+UEsoXzjyBxCVBQvwgZh52SJULHgdMvOAAsnE=",
       "url": "_framework\/System.Collections.wasm"
     },
     {
@@ -109,7 +109,7 @@
       "url": "_framework\/System.ComponentModel.wasm"
     },
     {
-      "hash": "sha256-UkB3g1YaqG58Z2YT19eTX35nrLi1ZhQXg8F6L88jd5o=",
+      "hash": "sha256-2k8EMOovNzPcGXZTs8Rcmqd0xYOAj90rEbvagMFM2Mw=",
       "url": "_framework\/System.Console.wasm"
     },
     {
@@ -117,7 +117,7 @@
       "url": "_framework\/System.Diagnostics.DiagnosticSource.wasm"
     },
     {
-      "hash": "sha256-ZLIgcmy\/p7yF1vGnM8XTX37FVD5jFSP6pFYp0pYljqk=",
+      "hash": "sha256-eiMjZIFrBEra+VTLIU84nIbwgiO+xVgc5rsgP46NuzQ=",
       "url": "_framework\/System.Linq.wasm"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-Xwg8HjJYohwvtaDiDG0os9vMrBlUX\/TRZ38SNmBIXyw=",
+      "hash": "sha256-Mde2N66KjUQNoWwHF81l\/DvcVNiDo25Khm+r6RRdmHw=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-pUf6xB8f8nyYrWU7y5\/V1+QynPKqWMODtBIzEqjOpBI=",
+      "hash": "sha256-oWS2m66R5cnUw4Lx9ulz8JikeNITI47fiBr8CrHAkus=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -205,5 +205,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "U3Rcs91f"
+  "version": "C8K7tIrk"
 };
