@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DeviceCounter",
   "resources": {
-    "hash": "sha256-MU6oGLzD07JnLRBlL+Zc3FfGZwR8zmFkAzfJqZqsFsI=",
+    "hash": "sha256-NI5ft1Z9tq9aW4GCDXKY1ESmcQFiE8iOuAK7nZCKX0g=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.as3qllmu5i.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "DeviceCounter.wasm": "sha256-hQJusesi/3bjqecwvfPt1+HOe3D7gMYphC5X49EEBt0=",
+      "DeviceCounter.wasm": "sha256-bH5iOOtTxijfRrDdENEo0yMFw+LtmGYN8DcJfN+ERKc=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-6opDz+WwK3xF8I3dCbvLH537tJ6fkCIe4VU30SNJItI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-DUvpzktySFpUWNVEp87C8FbAJYUD6qHu7a6hL+tBSl4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-kZSJV9ON9UL924dyAnAeoFHZXExv5A/OCxTHlMc+3fQ=",
